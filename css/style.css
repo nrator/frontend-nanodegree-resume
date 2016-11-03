@@ -219,3 +219,7 @@ span {
     display: block;
   }
 }
+
+#skills li {
+  float: left;
+}
